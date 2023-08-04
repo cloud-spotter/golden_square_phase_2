@@ -1,4 +1,4 @@
-# {{PROBLEM}} Class Design Recipe
+# {{Task Tracker}} Class Design Recipe
 
 Copy this into a `recipe.md` in your project and fill it out.
 
